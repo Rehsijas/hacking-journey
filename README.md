@@ -1,20 +1,30 @@
-# hacking-journey
-My journey from zero to ethical hacker
+# Hacking Journey — Rehsijas
 
-# Hacking Journey 🛡️
+> "My crime is that of curiosity."
 
-## Who am I?
-19 year old computing student with a curiosity for breaking things ethically.
-Handle: Rehsijas
-Goal: Purple team cybersecurity
+## Goal
+Build a cybersecurity firm. Financial independence by 30.
 
-## Why this repo?
-Documenting my journey from zero to ethical hacker.
-No sugarcoating, real progress, real mistakes.
+## Machine
+MacBook Air M4 — Full hacking + web dev setup
 
-## Day 1 - 25 Feb 2026
-- Set up Mac as a hacking machine
-- Installed Nmap, Metasploit, Burp Suite, Hydra, SQLmap and more
-- Set up DVWA as local hacking lab using Docker
-- Configured Git for version control
-- The journey begins.
+## Tools Installed
+- nmap, sqlmap, hydra, hashcat, john, nikto
+- bettercap, aircrack-ng, wireshark
+- gobuster, ffuf, rustscan, nuclei, subfinder
+- Metasploit, Burp Suite
+- Python hacking libs: impacket, scapy, requests
+
+## Practice Labs
+- DVWA: http://localhost
+- OWASP Juice Shop: http://localhost:3000
+
+## Phases
+- [ ] Phase 1: Foundations
+- [ ] Phase 2: Web Attacks
+- [ ] Phase 3: Network Attacks
+- [ ] Phase 4: Post Exploitation
+- [ ] Phase 5: Specialization — Red Team
+
+## Progress Log
+<!-- Daily notes go here -->
